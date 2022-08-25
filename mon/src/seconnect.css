@@ -1,0 +1,24 @@
+body{
+  
+  
+    
+}
+form {
+ 
+  padding: 2vw;
+  width: 50%;
+  background-color: white;
+  height: fit-content;
+}
+
+.aaa{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("buttereventphotography.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding: 2vw 0;
+}
